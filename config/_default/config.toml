@@ -1,7 +1,7 @@
 baseURL = "https://mkordik.github.io/Notion-Hugo/"
 languageCode = "en-us"
 title = "Micah Kordik"
-theme = "doks"
+theme = "congo"
 [[menu.main]]
   name = "About" 
   url = "https://mkordik.github.io/Notion-Hugo/about"
