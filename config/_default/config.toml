@@ -1,4 +1,4 @@
 baseURL = "https://mkordik.github.io/Notion-Hugo/"
 languageCode = "en-us"
 title = "My New Hugo Site"
-theme = "ananke"
+theme = "DoIt"
