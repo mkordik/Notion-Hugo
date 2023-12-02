@@ -2,4 +2,7 @@ baseURL = "https://mkordik.github.io/Notion-Hugo/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "DoIt"
-
+[[menu.main]]
+  name = "About" 
+  pageRef = "/about"
+  weight = 1
