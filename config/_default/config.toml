@@ -4,5 +4,5 @@ title = "My New Hugo Site"
 theme = "DoIt"
 [[menu.main]]
   name = "About" 
-  identifier = "https://mkordik.github.io/Notion-Hugo/about/"
+  identifier = "https://www.notion.so/About-800006805b564fecadc3ef750d15f7bf"
   weight = 1
